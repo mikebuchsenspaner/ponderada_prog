@@ -96,6 +96,6 @@ contract GlampToken is ERC20, ERC20Burnable, Ownable {
 
 **Carteiras envolvidas**:
 - Conta A (owner / origem): `0x3860D29d54b0D4e9825a079Fa1bd36C2A3f49B30`
-- Conta B (destino): `0x791E7dA2...05a7d1707`
+- Conta B (destino): `0x791E7dA2534F50288e66950feB8c37205a7d1707`
 
 
