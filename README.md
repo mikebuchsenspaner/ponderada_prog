@@ -99,8 +99,3 @@ contract GlampToken is ERC20, ERC20Burnable, Ownable {
 - Conta B (destino): `0x791E7dA2...05a7d1707`
 
 
-## 8. Vídeo de Demonstração
-
-https://youtu.be/W2e20KsAGb8
-](https://youtu.be/W2e20KsAGb8)
-O vídeo apresenta: (1) a proposta de valor do token, (2) o contrato deployado no Sepolia Etherscan, e (3) uma transferência real entre duas carteiras.
